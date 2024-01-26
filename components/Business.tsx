@@ -19,6 +19,8 @@ export const Business = () => {
           <BizItem>事業承継サービスの機能拡張</BizItem>
           <BizItem>テスト管理システムの機能追加</BizItem>
           <BizItem>MAサービス開発のディレクション</BizItem>
+          <BizItem>銀行開業に向けた開発支援</BizItem>
+          <BizItem>医薬品２次流通サービスの開発支援</BizItem>
         </List>
       </section>
       <section>
@@ -30,7 +32,7 @@ export const Business = () => {
             <BizItem>Scala（Play!2）</BizItem>
             <BizItem>Ruby（Ruby on Rails）</BizItem>
             <BizItem>PHP（CakePHP3, ZendFramework）</BizItem>
-            <BizItem>JavaScript / TypeScript（jQuery, React Vue.js, Backbone.js, Angular）</BizItem>
+            <BizItem>JavaScript / TypeScript（jQuery, React, Vue.js, Backbone.js, Angular, TRPC, GraphQL Yoga）</BizItem>
           </List>
         </section>
         <section>
@@ -42,7 +44,8 @@ export const Business = () => {
             <BizItem>memcached</BizItem>
             <BizItem>Redis</BizItem>
             <BizItem>MongoDB</BizItem>
-            <BizItem>Redis</BizItem>
+            <BizItem>Amazon Redshift</BizItem>
+            <BizItem>Amazon DynamoDB</BizItem>
           </List>
         </section>
       </section>
