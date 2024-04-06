@@ -13,7 +13,7 @@ export const Company = () => {
             <Tbody>
               <KvRow th="名称" td="合同会社アーサーズ" />
               <KvRow th="所在地" td="神奈川県横浜市都筑区川和町２３８３番地７" />
-              <KvRow th="TEL" td="090-7410-1946" />
+              <KvRow th="TEL" td="080-2395-2924" />
               <KvRow th="創業" td="2008年(平成18年)8月1日" />
               <KvRow th="設立" td="2015年(平成27年)8月10日" />
               <KvRow th="資本金" td="100万円" />
