@@ -5,7 +5,7 @@ export const Company = () => {
   return (
     <div
       id="company"
-      className="relative w-full h-[600px] bg-top bg-no-repeat bg-cover bg-[url('/ballpen-black-and-white-communication-934062.jpg')]">
+      className="relative w-full h-[600px] bg-top bg-no-repeat bg-cover bg-[url('/ballpen-black-and-white-communication.jpg')]">
       <div className="absolute top-1/2 left-3/4 translate-x-[-50%] translate-y-[-50%]">
         <Heading as='h3' size='md'>会社概要</Heading>
         <TableContainer>
